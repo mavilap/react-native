@@ -14,7 +14,7 @@ export const HolaMundoScreen = ()=>{
           textAlign:'center'
           
         }}>
-          Hola Mundo %%
+          Hola Mundo %%!!
         </Text>
   
       </View>
